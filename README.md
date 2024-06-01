@@ -27,7 +27,7 @@ I use VScodium (Ignore the VScode icon)
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
 ### Scripting
 
-<img src="https://raw.githubusercontent.com/chaulagainrupak/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
 
 ### Socials
                   
@@ -36,4 +36,4 @@ I use VScodium (Ignore the VScode icon)
 <a href="https://www.github.com/chaulagainrupak" target="_blank" rel="noreferrer">
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaulagainrupak&layout=compact)
