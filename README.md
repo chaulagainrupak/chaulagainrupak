@@ -35,7 +35,7 @@ I use VScodium (Ignore the VScode icon)
 
 #
 ## My CodeWars
-![Codewars](https://www.codewars.com/users/chaulagainrupak)
+[Codewars](https://www.codewars.com/users/chaulagainrupak)
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaulagainrupak&layout=compact) 
 
