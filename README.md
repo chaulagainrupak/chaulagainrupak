@@ -28,9 +28,7 @@ I use VScodium (Ignore the VScode icon)
 ### Scripting
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" />
-
-### Socials
-                  
+   
                   
 <p align="left">
 <a href="https://www.github.com/chaulagainrupak" target="_blank" rel="noreferrer">
