@@ -34,4 +34,5 @@ I use VScodium (Ignore the VScode icon)
 <a href="https://www.github.com/chaulagainrupak" target="_blank" rel="noreferrer">
 
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaulagainrupak&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaulagainrupak&layout=compact) ![Codewars](https://github.r2v.ch/codewars?user=chaulagainrupak)
+
