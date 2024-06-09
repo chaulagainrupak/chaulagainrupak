@@ -9,7 +9,7 @@ I have been learning programming as my hobby as well as make a career in IT sect
 *   🌍  I'm based in Nepal
 *   🖥️  See my portfolio at [Portfolio (Probably In Development)](http://chaulagainrupak.com.np)
 *   ✉️  You can contact me at [contact@chaulagainrupak.com.np](mailto:contact@chaulagainrupak.com.np)
-*   🚀  I'm currently working on [A lot of random projects and learning.](http://https://github.com/chaulagainrupak)
+*   🚀  I'm currently working on [A lot of random projects and learning.](https://github.com/chaulagainrupak)
 *   🧠  I'm learning Python, C++, Java, JavaScript
 *   ⚡  I love camelCase!
 
