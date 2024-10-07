@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 --------------------------
 
-I have been learning programming as my hobby as well as make a career in IT sector.
+I have been learning programming as my hobby as well as git good.
 
 *   🌍  I'm based in Nepal
 *   🖥️  See my portfolio at [Portfolio (Probably In Development)](http://chaulagainrupak.com.np)
