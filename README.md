@@ -37,7 +37,7 @@ If you check anything out, I’d especially appreciate feedback on that part.
 ### 🔗 What I'm Doing  
 - Building and scaling **PaperGuides**  
 - Expanding a structured **questions & answers repository**  
-- Writing and documenting everything through my [B-log(https://chaulagainrupak.com.np/logs)  
+- Writing and documenting everything through my [B-log](https://chaulagainrupak.com.np/logs).
 - Experimenting with new ideas and tools  
 
 ---
